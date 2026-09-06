@@ -1,1 +1,1 @@
-package dao;
+package model;
